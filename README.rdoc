@@ -1,6 +1,6 @@
 == README
 
-[![CircleCI](https://circleci.com/gh/andela-aadepoju/docker_rails.svg?style=svg)](https://circleci.com/gh/andela-aadepoju/docker_rails)
+[![CircleCI](https://circleci.com/gh/andela-aadepoju/docker_rails.svg?style=svg)](https://circleci.com/gh/andela-aadepoju/docker_rails)]
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
