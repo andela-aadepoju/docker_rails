@@ -1,5 +1,4 @@
 == README
-[![CircleCI](https://circleci.com/gh/andela-aadepoju/docker_rails.svg?style=svg)]
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
